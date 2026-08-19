@@ -31,15 +31,6 @@
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LuisMigueldeSouza&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=LuisMigueldeSouza&theme=tokyonight"/>
-</div>
-
----
-
 ## 📈 Atividade
 
 <div align="center">
